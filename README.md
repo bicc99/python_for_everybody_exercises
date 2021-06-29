@@ -3,6 +3,7 @@
 This was online self-learning on Python language.
 
 Course: Programming for Everybody (Getting Started with Python) by University of Michigan. Coursera.org
+
 Many thanks to Dr Charles Severance for offering the free course.
 
 Note:
